@@ -39,6 +39,10 @@ Neel Guha
 
 >A textual corpus of 4000 legal cases for automatic summarization and citation analysis. For each document we collect catchphrases, citations sentences, citation catchphrases and citation classes.
 
+### [Automated Legal Question Answering Competition (ALQAC)](https://alqac.github.io/)
+
+>The Automated Legal Question Answering Competition (ALQAC) is an annual event designed to foster research on legal assistance systems, particularly in low-resource languages. The competition focuses on challenging tasks such as Legal Document Retrieval and Legal Question Answering, providing manually annotated datasets derived from well-known legal statutes. By addressing the limitations of low-resource languages in the legal domain, ALQAC aims to advance AI-driven solutions and build a strong research community for legal technology development.
+
 
 ### [Board of Veterans Appeals Summarization](https://dl.acm.org/doi/10.1145/3322640.3326728)
 
@@ -74,6 +78,9 @@ Neel Guha
 
 >Legal contract analysis is an important research area. The classification of clauses or sentences enables valuable insights such as the extraction of rights and obligations. However, datasets consisting of contracts are quite rare, particularly regarding German language. Therefore this paper experiments the portability of machine learning (ML) models with regard to different document types. We trained different ML classifiers on the tenancy law of the German Civil Code (BGB) to apply the resulting models on a set of rental agreements afterwards. The performance of our models varies on the contract set. Some models perform significantly worse, while certain settings reveal a portability. Additionally, we trained and evaluated the same classifiers on a dataset consisting solely of contracts, to be able to observe a reference performance. We could show that the performance of ML models may depend on the document type used for training, while certain setups result in portable models.
 
+### [Competition on Legal Information Extraction and Entailment (COLIEE)](https://coliee.org/overview)
+
+>The Competition on Legal Information Extraction and Entailment (COLIEE) is an annual event that promotes research in legal information processing. It features four main tasks: Legal Case Retrieval, Legal Case Entailment, Statute Law Retrieval, and Legal Textual Entailment. COLIEE provides datasets in multiple languages, including low-resource ones, to encourage the development of AI solutions across diverse legal systems.
 
 ### [ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts](https://arxiv.org/abs/2110.01799)
 
@@ -248,5 +255,3 @@ Neel Guha
 ### [Washington University Law Supreme Court Database](http://scdb.wustl.edu/)
 
 >The Supreme Court Database is the definitive source for researchers, students, journalists, and citizens interested in the U.S. Supreme Court. The Database contains over two hundred pieces of information about each case decided by the Court between the 1791 and 2022 terms. Examples include the identity of the court whose decision the Supreme Court reviewed, the parties to the suit, the legal provisions considered in the case, and the votes of the Justices.
-
-
